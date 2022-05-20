@@ -4,26 +4,7 @@
 
 <p id="description">A wallet miner</p>
 
-<h2>🚀 Demo</h2>
-
-  
-  
-<h2>🧐 Features</h2>
-
-Here're some of the project's best features:
-
-*   1/ Ecrit " Wallet Miner " en ascii avec du texte vert
-*   2/ Demande le type de minage (ETH ou BTC)
-*   3/ Demander l'adresse de la personne
-*   4/ Animation de connexion
-*   5/ Crée un fonction qui génère une suite de caractère ressemblant au BTC ou ETH (BTC : bc1qenphhrr87rq9k93aachzw8pflx6q5s7a2arrk0 / ETH : 0x1220e681e22ad68dcda8325473d45c5ff88cc689ae06ec692f24cb529b838757 )
-*   6/ Crée une fonction d'un pourcentage de chance si il gagne ou non (Rouge = 0ETH/BTC ; Vert = +0ETH/BTC)
-*   7/ Si il gagne crée une fonction qui génère un chiffre entre \[0.00001 ; 3\]
-*   8/ Faire apparaitre ( " {valeur\_gagné} envoyer a votre adresse ) puis 3 seconde de delai
-*   9/ Puis relancer les fonctions \[5 ; 8\]
-*   10/ si il ne trouve pas ne pas lancer les fonctions \[7 ; 8\] mes la fonction 9
-*   11/ compile 'python -OO -m py_compile index.py'
-
+ 
 <h2>🛠️ Installation Steps:</h2>
 
 <p>1. pip install colorama</p>
