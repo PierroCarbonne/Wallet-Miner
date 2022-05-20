@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/41/c1/41/41c1417b-177d-1c40-2c8a-6524ce74604f/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png" alt="project-image"></p>
 
-<p id="description">A wallet miner</p>
+<p id="description">A wallet miner https://discord.gg/urZGR7y5De </p>
 
  
 <h2>🛠️ Installation Steps:</h2>
