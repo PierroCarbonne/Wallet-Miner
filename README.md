@@ -5,17 +5,7 @@
 
 <p id="description">A wallet miner https://discord.gg/urZGR7y5De </p>
 
- 
-<h2>🛠️ Installation Steps: (You Need Python)</h2>
-
-<p>1. pip install colorama</p>
-
-<p>1.1. pip3 install colorama</p>
-
-<p>2. py index.py</p>
-
-
-  
+  ![image](https://user-images.githubusercontent.com/59067764/169706834-c8a37fd6-1982-4b9e-9132-e7808d6fb699.png)
   
 <h2>💻 Built with</h2>
 
