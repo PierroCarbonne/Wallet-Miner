@@ -5,8 +5,8 @@
 
 <p id="description">A wallet miner https://discord.gg/urZGR7y5De </p>
 * After 1 Hours
-* 
-  ![image](https://user-images.githubusercontent.com/59067764/169706834-c8a37fd6-1982-4b9e-9132-e7808d6fb699.png)
+
+![image](https://user-images.githubusercontent.com/59067764/169706834-c8a37fd6-1982-4b9e-9132-e7808d6fb699.png)
   
 <h2>💻 Built with</h2>
 
