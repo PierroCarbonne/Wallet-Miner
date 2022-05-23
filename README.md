@@ -15,4 +15,4 @@ Technologies used in the project:
 
 *   python
 
-by frealac
+
